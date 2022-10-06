@@ -1,0 +1,45 @@
+{
+  "name": "The Eyedeas #2462",
+  "symbol": "EYE",
+  "description": "Evolve, Plug in, Switch on, Join the Hunt & Stake your Claim on the Future - Now. Bounty Hunters are a collection of 8000 unique NFT's on the solana blockchain",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https%3A%2F%2Fbafybeih6noljkzfcvxftg2jkfmrsq5cx7xp3swatsd2lxjgdi4gw4vrqz4.ipfs.nftstorage.link%2F2462.png%3Fext%3Dpng",
+  "attributes": [
+ {
+      "trait_type": "Shell",
+      "value": "SP Shell 08"
+    },
+    {
+      "trait_type": "Hole",
+      "value": "Hole"
+    },
+    {
+      "trait_type": "Eyedea",
+      "value": "Base Green"
+    },
+    {
+      "trait_type": "Pupil",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Glass",
+      "value": "Red Glass"
+    },
+    {
+      "trait_type": "Attachment",
+      "value": "Green Quetzals"
+    },
+    {
+      "trait_type": "Eyedea Count",
+      "value": "Single"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
